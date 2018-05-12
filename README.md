@@ -1,1 +1,1 @@
-# SQL-and-Python-with-Pokemon
+# SQL and Python with Pokemon
