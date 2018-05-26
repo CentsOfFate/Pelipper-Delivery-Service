@@ -1,6 +1,6 @@
 # Pelipper Delivery Service - Business Intelligence Project
 
-This project is demonstrating a Data Warehouse using an online watch retailer and visualizing the data with Seaborn, Matplotlib and Power BI 
+This project is demonstrating a Data Warehouse using the Pokemon World and a Delivery Service and visualizing the data with Seaborn and Power BI 
 
 ## Getting Started
 To replicate this Project: 
