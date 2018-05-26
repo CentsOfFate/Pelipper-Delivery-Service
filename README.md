@@ -13,3 +13,7 @@ To replicate this Project:
 
 ## Example Star Joined Tables
 * [Pelipper Delivery Service](https://github.com/CentsOfFate/Pelipper-Delivery-Service/blob/master/Pelipper%20Delivery%20Service.xlsx)
+
+## Jupyter Notebooks
+* [SQL with Pokemon - Chapter 1](https://github.com/CentsOfFate/Pelipper-Delivery-Service/blob/master/Notebooks/SQL%20with%20Pokemon%20-%20Chapter%201.ipynb)
+* [SQL with Pokemon - Chapter 2](https://github.com/CentsOfFate/Pelipper-Delivery-Service/blob/master/Notebooks/SQL%20with%20Pokemon%20-%20Chapter%202.ipynb)
