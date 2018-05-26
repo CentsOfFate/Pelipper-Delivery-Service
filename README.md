@@ -10,3 +10,6 @@ To replicate this Project:
 * Run SQL Server 2017 Import and Export Data (64 Bit) and Import [Fact_Orders](https://github.com/CentsOfFate/Pelipper-Delivery-Service/blob/master/Fact_Orders.xlsx)
 * Finish Running [Pelipper Delivery Service Dim and Fact Tables.sql
 ](https://github.com/CentsOfFate/Pelipper-Delivery-Service/blob/master/Pelipper%20Delivery%20Service%20Dim%20and%20Fact%20Tables.sql)
+
+## Example Star Joined Tables
+* [Pelipper Delivery Service](https://github.com/CentsOfFate/Pelipper-Delivery-Service/blob/master/Pelipper%20Delivery%20Service.xlsx)
