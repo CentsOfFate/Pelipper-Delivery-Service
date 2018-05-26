@@ -21,3 +21,4 @@ To replicate this Project:
 ## Data Visualizations and Power BI
 * [Project - Pelipper Delivery Service - Part 1](https://github.com/CentsOfFate/Pelipper-Delivery-Service/blob/master/Notebooks/Project%20-%20Pelipper%20Delivery%20Service%20-%20Part%201.ipynb)
 * [Project - Pelipper Delivery Service - Part 2](https://github.com/CentsOfFate/Pelipper-Delivery-Service/blob/master/Notebooks/Project%20-%20Pelipper%20Delivery%20Service%20-%20Part%202.ipynb)
+* [Pelipper Delivery Service Dashboard](https://app.powerbigov.us/view?r=eyJrIjoiMGYyNGFjZWQtNzI3ZS00ZjJmLWI1YzktMWVlZTUxZTM0M2M3IiwidCI6IjcwYWY1NDdjLTY5YWItNDE2ZC1iNGE2LTU0M2I1Y2U1MmI5OSJ9)
